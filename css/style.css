@@ -1,0 +1,57 @@
+.navbar{
+    background:white;
+    color:black;
+}
+.navbar ul{
+    list-style:none;
+    color:black;
+}
+.navbar .side ul li{
+    display: inline;
+    padding-left: 100px;
+}
+.side{
+    padding-left: 900px;
+    transform: translateY(-30px);
+}
+.navbar .side ul li a{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+    font-size:30px;
+    font-family: open sans;
+    border-bottom:1px solid;
+
+}
+.MOVE{
+    transform: translateY(30px);
+    font-size: 30px;
+    
+}
+.bean span{
+color:#b5a642;
+}
+.circle{
+    transform: translateX(900px);
+background:white;
+height:500px;
+width: 600px;
+
+}
+.text {
+    color:white;
+    margin-left: 800px;
+    transform:translateY(250px);
+    font-size: 80px;
+
+}.text span{
+    color:#b5a642;
+}
+.text button .lil{
+    font-size: 40px;
+    color:white;
+    transform:translateY(25px);
+
+}
+
+
